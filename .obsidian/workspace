@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/Players/Sindar.md",
+            "file": "DnD/Vega/Items/Puzzle Box.md",
             "mode": "source",
             "source": false
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Players/Sindar.md",
+                "file": "DnD/Vega/Items/Puzzle Box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Players/Sindar.md",
+                "file": "DnD/Vega/Items/Puzzle Box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Players/Sindar.md"
+                "file": "DnD/Vega/Items/Puzzle Box.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "0d1d46057f079182",
   "lastOpenFiles": [
-    "DnD/Players/Sindar.md",
-    "DnD/Bad Guys/Black Spider.md",
+    "DnD/Vega/Items/Puzzle Box.md",
+    "Templates/GeralDnD Template.md",
+    "Templates/NPC Template.md",
+    "DnD/Vega/Bad Guys/Black Spider.md",
+    "DnD/Vega/Spells/Call Spider.md",
+    "DnD/Vega/Index.md",
+    "DnD/Vega/Players/Sindar.md",
     "Day Planners/Day Planner-20220514.md",
     "Day Planners/Day Planner-20220511.md",
-    "DnD/Spells/Timeless Flood.md",
-    "Timeless.md",
-    "DnD/Index.md",
-    "DnD/Items/Puzzle Box.md",
-    "DnD/Spells/Lock Dors.md",
-    "DnD/Bad Guys/GlassStaff.md"
+    "DnD/Vega/Spells/Timeless Flood.md"
   ]
 }

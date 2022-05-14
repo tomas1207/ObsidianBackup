@@ -5,38 +5,17 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"DnD/NPCS/Bad Guys\"",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:\"DnD/NPCS/Main NPCS\"",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:DnD/NPCS/Phandelver",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:DnD/Players",
-      "color": {
-        "a": 1,
-        "rgb": 16741120
+        "rgb": 14701138
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0.1,
   "nodeSizeMultiplier": 1,
@@ -46,6 +25,6 @@
   "repelStrength": 10.1123595505618,
   "linkStrength": 1,
   "linkDistance": 225,
-  "scale": 1.4019828977761077,
-  "close": false
+  "scale": 1.000000000000006,
+  "close": true
 }
