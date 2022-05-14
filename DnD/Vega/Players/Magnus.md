@@ -1,4 +1,4 @@
-# Mangus (Player Name)
+# Magnus (Player Name)
 #### Create At: 14-05-2022
 ```dataview  
 TABLE WITHOUT ID file.mtime AS "Last Modified"  
@@ -17,7 +17,7 @@ WHERE file.path = this.file.path
 
 ### Main Status
 ```statblock
-name: Mangus
+name: Magnus
 stats: [27, 14, 25, 16, 15, 19]
 ac: 22
 hp: 22

@@ -24,7 +24,7 @@
 
 ## Players
 - [[Sindar]]
-- [[Mangus]]
+- [[Magnus]]
 - [[Rudeus]]
 - [[Anduin]]
 - [[Eluniel]]

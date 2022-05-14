@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/Vega/Items/Puzzle Box.md",
+            "file": "DnD/Vega/NPCS/Main NPCS/Anabella.md",
             "mode": "source",
             "source": false
           }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Vega/Items/Puzzle Box.md",
+                "file": "DnD/Vega/NPCS/Main NPCS/Anabella.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Vega/Items/Puzzle Box.md",
+                "file": "DnD/Vega/NPCS/Main NPCS/Anabella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Vega/Items/Puzzle Box.md"
+                "file": "DnD/Vega/NPCS/Main NPCS/Anabella.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "0d1d46057f079182",
   "lastOpenFiles": [
-    "DnD/Vega/Items/Puzzle Box.md",
-    "Templates/GeralDnD Template.md",
-    "Templates/NPC Template.md",
+    "DnD/Vega/NPCS/Main NPCS/Anabella.md",
     "DnD/Vega/Bad Guys/Black Spider.md",
-    "DnD/Vega/Spells/Call Spider.md",
-    "DnD/Vega/Index.md",
-    "DnD/Vega/Players/Sindar.md",
-    "Day Planners/Day Planner-20220514.md",
-    "Day Planners/Day Planner-20220511.md",
-    "DnD/Vega/Spells/Timeless Flood.md"
+    "DnD/Vega/NPCS/Phandelver/Talon.md",
+    "DnD/Vega/NPCS/Phandelver/Talben.md",
+    "DnD/Vega/NPCS/Phandelver/Narth.md",
+    "DnD/Vega/NPCS/Phandelver/Harbin western.md",
+    "DnD/Vega/NPCS/Phandelver/Barthen.md",
+    "DnD/Vega/NPCS/Main NPCS/Trilena.md",
+    "DnD/Vega/NPCS/Main NPCS/Victor.md",
+    "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md"
   ]
 }
