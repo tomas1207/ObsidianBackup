@@ -6,12 +6,18 @@ WHERE file.path = this.file.path
 ```
 
 ## General Description
+- Humanos
+- Acreditam que a [[Black Spider]] é um deus
 
 
 ## Behavior
-
+- Terroristas
+- São controladores
+- São pessoas que gostam de derramar sangue
 
 ## What RedBand knows
+- [[Black Spider]] é um dues
+- [[GlassStaff]] é o boss
 
 
 ## Spells
