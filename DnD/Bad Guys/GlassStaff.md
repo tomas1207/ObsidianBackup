@@ -21,6 +21,8 @@ Ele sabe de uma forma de encontrar o Cragmow castle
 
 ## Spells
 [[Call Spider]] 
+[[Lock Dors]]
+
 
 
 ## Stat block if need

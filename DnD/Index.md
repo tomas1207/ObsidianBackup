@@ -4,7 +4,7 @@
  - [[Talben]]
  - [[Talon]]	
  - [[Narth]]
- - [[Harbin westen]]
+ - [[Harbin western]]
  - [[Anabella]]
  - [[Trilena]]
 
@@ -19,6 +19,7 @@
 - [[Black Spider]]
 - [[GlassStaff]]
 - [[Bugbear]]
+- [[RedBand]]
 
 
 ## Players
@@ -33,8 +34,13 @@
 ## Spells
 - [[Proteted the area]]
 - [[Move Crawg Castle]]
+- [[Call Spider]]
+- [[Proteted the area]]
 
-
+## Items
+- [[Star dust]]
+- [[Puzzle Box]]
+- [[Neckless Of happies]]
 
 
 
