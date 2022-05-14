@@ -12,5 +12,6 @@
   "readableLineLength": false,
   "strictLineBreaks": false,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Img"
 }

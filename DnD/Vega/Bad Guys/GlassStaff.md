@@ -23,6 +23,7 @@ Ele sabe de uma forma de encontrar o Cragmow castle
 [[Call Spider]] 
 [[Lock Dors]]
 
+## SpellBook
 
 
 ## Stat block if need

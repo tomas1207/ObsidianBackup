@@ -40,7 +40,7 @@
 ## Items
 - [[Star dust]]
 - [[Puzzle Box]]
-- [[Neckless Of happies]]
+- [[Neckless]]
 
 
 

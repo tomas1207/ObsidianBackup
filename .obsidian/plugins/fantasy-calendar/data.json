@@ -432,8 +432,8 @@
   "parseDates": false,
   "settingsToggleState": {
     "calendars": true,
-    "events": false,
-    "advanced": true
+    "events": true,
+    "advanced": false
   },
   "showIntercalary": false,
   "version": {

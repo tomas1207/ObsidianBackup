@@ -14,6 +14,7 @@ WHERE file.path = this.file.path
 ## Especial Notes
 
 ## Points to explore
+- [Arroz]()
 
 ### Main Status
 ```statblock

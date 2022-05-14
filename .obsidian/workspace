@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1d46057f079182",
+        "id": "0b28fc10c20e7de8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/Vega/NPCS/Main NPCS/Anabella.md",
+            "file": "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md",
             "mode": "source",
             "source": false
           }
@@ -87,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7934b7c412583895",
@@ -100,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Vega/NPCS/Main NPCS/Anabella.md",
+                "file": "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Vega/NPCS/Main NPCS/Anabella.md",
+                "file": "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Vega/NPCS/Main NPCS/Anabella.md"
+                "file": "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md"
               }
             }
           },
@@ -166,17 +165,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0d1d46057f079182",
+  "active": "0b28fc10c20e7de8",
   "lastOpenFiles": [
+    "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md",
+    "DnD/Vega/NPCS/Main NPCS/Rockseeker.md",
     "DnD/Vega/NPCS/Main NPCS/Anabella.md",
-    "DnD/Vega/Bad Guys/Black Spider.md",
-    "DnD/Vega/NPCS/Phandelver/Talon.md",
-    "DnD/Vega/NPCS/Phandelver/Talben.md",
-    "DnD/Vega/NPCS/Phandelver/Narth.md",
-    "DnD/Vega/NPCS/Phandelver/Harbin western.md",
-    "DnD/Vega/NPCS/Phandelver/Barthen.md",
-    "DnD/Vega/NPCS/Main NPCS/Trilena.md",
-    "DnD/Vega/NPCS/Main NPCS/Victor.md",
-    "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md"
+    "DnD/Vega/Items/Star dust.md",
+    "DnD/Vega/Items/Puzzle Box.md",
+    "DnD/Vega/Items/Neckless.md",
+    "DnD/Vega/Bad Guys/RedBand.md",
+    "DnD/Vega/Bad Guys/GlassStaff.md",
+    "DnD/Vega/Bad Guys/Bugbear.md",
+    "Img/TiagoToken.png"
   ]
 }
