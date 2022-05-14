@@ -1,0 +1,16 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "communityPluginSortOrder": "download",
+  "vimMode": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-PT"
+  ],
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}
