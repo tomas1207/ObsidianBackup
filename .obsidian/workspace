@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md",
+            "file": "DnD/Vega/Bad Guys/Bugbear.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md",
+                "file": "DnD/Vega/Bad Guys/Bugbear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md",
+                "file": "DnD/Vega/Bad Guys/Bugbear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md"
+                "file": "DnD/Vega/Bad Guys/Bugbear.md"
               }
             }
           },
@@ -167,15 +167,15 @@
   },
   "active": "0b28fc10c20e7de8",
   "lastOpenFiles": [
+    "DnD/Vega/Bad Guys/Bugbear.md",
+    "DnD/Vega/Bad Guys/Black Spider.md",
+    "Img/TiagoToken.png",
     "DnD/Vega/NPCS/Main NPCS/Sildar Hallwinter.md",
     "DnD/Vega/NPCS/Main NPCS/Rockseeker.md",
     "DnD/Vega/NPCS/Main NPCS/Anabella.md",
     "DnD/Vega/Items/Star dust.md",
     "DnD/Vega/Items/Puzzle Box.md",
     "DnD/Vega/Items/Neckless.md",
-    "DnD/Vega/Bad Guys/RedBand.md",
-    "DnD/Vega/Bad Guys/GlassStaff.md",
-    "DnD/Vega/Bad Guys/Bugbear.md",
-    "Img/TiagoToken.png"
+    "DnD/Vega/Bad Guys/RedBand.md"
   ]
 }
