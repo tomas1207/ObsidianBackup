@@ -12,7 +12,7 @@ WHERE file.path = this.file.path
 ## Especial Spells
 
 ## Especial Notes
-
+Hits by Red point red /black / Purpel
 ## Points to explore
 
 ### Main Status

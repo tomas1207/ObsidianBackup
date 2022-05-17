@@ -12,6 +12,7 @@ WHERE file.path = this.file.path
 ## Especial Spells
 
 ## Especial Notes
+Hits by Red point red /black / Purpel
 - Disparou uma flecha contra a [[Black Spider]]
 
 ## Points to explore
