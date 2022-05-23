@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/Vega/Players/Sindar.md",
+            "file": "DnD/Vega/Players/Eluniel.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Vega/Players/Sindar.md",
+                "file": "DnD/Vega/Players/Eluniel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Vega/Players/Sindar.md",
+                "file": "DnD/Vega/Players/Eluniel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Vega/Players/Sindar.md"
+                "file": "DnD/Vega/Players/Eluniel.md"
               }
             }
           },
@@ -167,10 +167,10 @@
   },
   "active": "0b28fc10c20e7de8",
   "lastOpenFiles": [
+    "DnD/Vega/Players/Eluniel.md",
     "DnD/Vega/Players/Sindar.md",
     "DnD/Vega/Players/Rudeus.md",
     "DnD/Vega/Players/Magnus.md",
-    "DnD/Vega/Players/Eluniel.md",
     "DnD/Vega/Players/Artus.md",
     "DnD/Vega/Players/Anduin.md",
     "DnD/Vega/Bad Guys/Black Spider.md",
