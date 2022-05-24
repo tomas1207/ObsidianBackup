@@ -21,11 +21,7 @@ WHERE file.path = this.file.path
 
 
 
-Neckaless - Fogo,Agua,
-Staff - Luz,
-Spear of destany - Ar,Vaco,
-Puzzle Box - Stardust, 
-Bone - Necro,
+
 
 ## Spells
 

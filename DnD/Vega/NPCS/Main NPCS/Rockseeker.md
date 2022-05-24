@@ -7,6 +7,8 @@ WHERE file.path = this.file.path
 
 ## Geral Description
 
+Ele é o bounding agent visto que ele foi um dos mineradores originais do meteorito de stardust
+
 
 ## Behavior
 

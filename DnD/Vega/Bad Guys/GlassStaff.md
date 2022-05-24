@@ -9,6 +9,9 @@ WHERE file.path = this.file.path
 - Humano 
 - Tem uma staff de vidro
 - Chefe dos [[RedBand]]
+- Ele é um esprito 
+- Uma soul do inferno com mais de 500 anos
+- 
 
 
 ## Behavior
@@ -18,6 +21,7 @@ WHERE file.path = this.file.path
 
 ## What GlassStaff knows
 Ele sabe de uma forma de encontrar o Cragmow castle
+Ele tem medo do [[Rockseeker]] se ele torcar nele a soul volta para o inferno
 
 ## Spells
 [[Call Spider]] 
