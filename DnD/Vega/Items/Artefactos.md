@@ -4,7 +4,7 @@
 | ---------------- | --------- | --- |
 | Neckaless        | Fogo,Agua |  Umis,Oddis   |
 | Staff            | Ar       |   Uldis   |
-| Spear of Destany | Luz,Vaco   |  Paldor, Retor   |
+| Spear of Destany | Luz,Vaco   |  Paldor, Raton   |
 | Puzzle Box       | Stardust  |  [[Black Spider]]   |
 | Bone             | Necro     |   Aros  |
 
