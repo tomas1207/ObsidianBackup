@@ -20,8 +20,12 @@ WHERE file.path = this.file.path
 - [[GlassStaff]] é o boss
 
 
-Fogo,Agua,Luz,Stardust,Ar,Vaco,Necro,
-Neckaless,Staff,Spear of destany,Puzzle Box, Bone
+
+Neckaless - Fogo,Agua,
+Staff - Luz,
+Spear of destany - Ar,Vaco,
+Puzzle Box - Stardust, 
+Bone - Necro,
 
 ## Spells
 
