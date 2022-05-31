@@ -8,7 +8,7 @@
 | Puzzle Box       | Stardust  |  [[Black Spider]]   |
 | Bone             | Necro     |   Aros  |
 
-
+### Ponto de vista da BlackSpider
 ## Necro
 Mulheres fugiram é o que a party sabe
 Mas eles ja tem tudo para o summon da [[Black Spider]]
