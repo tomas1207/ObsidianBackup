@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/Vega/Players/Eluniel.md",
+            "file": "DnD/Vega/Bad Guys/Arroz.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Vega/Players/Eluniel.md",
+                "file": "DnD/Vega/Bad Guys/Arroz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Vega/Players/Eluniel.md",
+                "file": "DnD/Vega/Bad Guys/Arroz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Vega/Players/Eluniel.md"
+                "file": "DnD/Vega/Bad Guys/Arroz.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "ecec535743951f75",
   "lastOpenFiles": [
+    "DnD/Vega/Bad Guys/Arroz.md",
     "DnD/Vega/Players/Eluniel.md",
     "DnD/Vega/NPCS/Phandelver/Harbin western.md",
     "DnD/Vega/Players/Sindar.md",
@@ -175,7 +176,6 @@
     "DnD/Vega/Players/Magnus.md",
     "DnD/Vega/Players/Artus.md",
     "DnD/Vega/Players/Anduin.md",
-    "DnD/Vega/Bad Guys/Black Spider.md",
-    "DnD/Vega/NPCS/Phandelver/Narth.md"
+    "DnD/Vega/Bad Guys/Black Spider.md"
   ]
 }
