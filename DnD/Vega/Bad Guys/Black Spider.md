@@ -9,8 +9,7 @@ WHERE file.path = this.file.path
 - Can be summon by [[Call Spider]] spell
 - Ela é um deus
 - Tem uma ligação com [[Anabella]], a dor que a [[Anabella]] sente a [[Black Spider]] também a sente (se a party matar a [[Anabella]] a [[Black Spider]] também morre)
-- 
-
+- O [[Magnus]] passou a ser a black spider (ish) 
 ## Behavior
 - Convencida
 - Faz de tudo para ter o que ela quere

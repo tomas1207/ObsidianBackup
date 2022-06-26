@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/Vega/Bad Guys/Arroz.md",
+            "file": "DnD/Vega/Bad Guys/Black Spider.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Vega/Bad Guys/Arroz.md",
+                "file": "DnD/Vega/Bad Guys/Black Spider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Vega/Bad Guys/Arroz.md",
+                "file": "DnD/Vega/Bad Guys/Black Spider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Vega/Bad Guys/Arroz.md"
+                "file": "DnD/Vega/Bad Guys/Black Spider.md"
               }
             }
           },
@@ -167,15 +167,15 @@
   },
   "active": "ecec535743951f75",
   "lastOpenFiles": [
-    "DnD/Vega/Bad Guys/Arroz.md",
-    "DnD/Vega/Players/Eluniel.md",
-    "DnD/Vega/NPCS/Phandelver/Harbin western.md",
-    "DnD/Vega/Players/Sindar.md",
-    "Img/TiagoToken.png",
-    "DnD/Vega/Players/Rudeus.md",
-    "DnD/Vega/Players/Magnus.md",
-    "DnD/Vega/Players/Artus.md",
-    "DnD/Vega/Players/Anduin.md",
-    "DnD/Vega/Bad Guys/Black Spider.md"
+    "DnD/Vega/Bad Guys/Black Spider.md",
+    "DnD/Vega/Items/Artefactos.md",
+    "DnD/Vega/Spells/Call Spider.md",
+    "DnD/Vega/Spells/Timeless Flood.md",
+    "DnD/Vega/Spells/Proteted the area.md",
+    "DnD/Vega/Spells/Move Crawg Castle.md",
+    "DnD/Vega/Spells/Lock Dors.md",
+    "DnD/Vega/Index.md",
+    "DnD/Vega/Items/Puzzle Box.md",
+    "DnD/Vega/Bad Guys/Arroz.md"
   ]
 }
