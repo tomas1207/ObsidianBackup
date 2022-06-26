@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "bd02fdce7359369a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DnD/Vega/Ultimas sessoes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -165,9 +177,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ecec535743951f75",
+  "active": "bd02fdce7359369a",
   "lastOpenFiles": [
     "DnD/Vega/Ultimas sessoes.md",
+    "DnD/Vega/Items/Star dust.md",
     "DnD/Vega/Index.md",
     "DnD/Vega/Bad Guys/Black Spider.md",
     "DnD/Vega/Items/Artefactos.md",
@@ -175,7 +188,6 @@
     "DnD/Vega/Spells/Timeless Flood.md",
     "DnD/Vega/Spells/Proteted the area.md",
     "DnD/Vega/Spells/Move Crawg Castle.md",
-    "DnD/Vega/Spells/Lock Dors.md",
-    "DnD/Vega/Items/Puzzle Box.md"
+    "DnD/Vega/Spells/Lock Dors.md"
   ]
 }
