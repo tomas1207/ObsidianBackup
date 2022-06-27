@@ -15,5 +15,5 @@ Vem o [[Magnus]] e a [[Black Spider]] a lutar em forma de alma enquanto o [[Magn
 
 ## O [[Rockseeker]] pode aparecer neste sessão????
 se sim ele passa a explicar o que é a puzzle box de forma a coagir a party a voltar a ativar a mesma -> como? ele diz que a puzzle box é um objeto 
-mítico e que tem propriedades que são para alem da compreensão humana ele acha que é forças do universo(Quarks), a puzzle box é uma porta de entra e saída do realm dos condenados (inferno) **a única forma de entrar é morrendo** e é a única forma de matar a blackspider de vez, é entrar na puzzle box, *isto é o [[GlassStaff]] a dizer:  que não sera muito difícil para vocês visto que mataram os notchs*  
+mítico e que tem propriedades que são para alem da compreensão humana ele acha que é forças do universo(Soul power), a puzzle box é uma porta de entra e saída do realm dos condenados (inferno) **a única forma de entrar é morrendo** e é a única forma de matar a blackspider de vez, é entrar na puzzle box, *isto é o [[GlassStaff]] a dizer:  que não sera muito difícil para vocês visto que mataram os notchs*  
 
