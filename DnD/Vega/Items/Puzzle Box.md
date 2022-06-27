@@ -8,3 +8,9 @@ WHERE file.path = this.file.path
 Displeed O lock spell
 
 Todas as almas foram libertadas (Inferno)
+
+## Como abrir?
+Fazendo o dispel do lock
+
+## O que vai se passar quando abrir?
+Todas as almas do inferno passam para o mundo dos vivos

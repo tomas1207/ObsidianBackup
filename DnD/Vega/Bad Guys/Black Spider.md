@@ -22,7 +22,6 @@ WHERE file.path = this.file.path
 - Qual o obj da [[Puzzle Box]] 
 - Como abrir a [[Puzzle Box]]
 - O obj do [[Star dust]]
-- 
 
 ## Spells
 - [[Timeless Flood]] 
