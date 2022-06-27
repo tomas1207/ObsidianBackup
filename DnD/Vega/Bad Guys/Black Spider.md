@@ -19,9 +19,9 @@ WHERE file.path = this.file.path
 
 
 ## What Black Spider knows
-- Qual o obj da [[Puzzle Box]] 
-- Como abrir a [[Puzzle Box]]
-- O obj do [[Star dust]]
+- Qual o obj da ![[Puzzle Box#Qual obj]] 
+- Como abrir a ![[Puzzle Box#Como abrir]]
+- O obj do ![[Star dust]]
 
 ## Spells
 - [[Timeless Flood]] 

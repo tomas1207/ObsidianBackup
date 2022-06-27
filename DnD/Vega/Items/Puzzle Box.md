@@ -13,4 +13,7 @@ Todas as almas foram libertadas (Inferno)
 Fazendo o dispel do lock
 
 ## O que vai se passar quando abrir?
-Todas as almas do inferno passam para o mundo dos vivos
+Todas as almas do inferno passam para o mundo dos vivos tem de encontrar um corpo em 20 ou voltam para o inferno
+
+## Qual obj
+Ser um portal entro o mundo dos  condenados e outros mundos

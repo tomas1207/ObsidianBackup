@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/Vega/Ultimas sessoes.md",
+            "file": "DnD/Vega/Items/Puzzle Box.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DnD/Vega/Items/Puzzle Box.md",
+            "file": "DnD/Vega/Bad Guys/Black Spider.md",
             "mode": "source",
             "source": false
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DnD/Vega/Items/Puzzle Box.md",
+                "file": "DnD/Vega/Bad Guys/Black Spider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DnD/Vega/Items/Puzzle Box.md",
+                "file": "DnD/Vega/Bad Guys/Black Spider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DnD/Vega/Items/Puzzle Box.md"
+                "file": "DnD/Vega/Bad Guys/Black Spider.md"
               }
             }
           },
@@ -191,15 +191,15 @@
   },
   "active": "dbae4a3f22a42df2",
   "lastOpenFiles": [
-    "DnD/Vega/Items/Puzzle Box.md",
     "DnD/Vega/Bad Guys/Black Spider.md",
+    "DnD/Vega/Items/Puzzle Box.md",
     "DnD/Vega/Ultimas sessoes.md",
+    "DnD/Vega/Items/Star dust.md",
     "DnD/Vega/Index.md",
     "Img/TiagoToken.png",
     "Img/Pasted image 20220517230757.png",
     "Img/Pasted image 20220517230813.png",
     "().md",
-    "DnD/Vega/Players/Magnus.md",
-    "DnD/Vega/Players/Rudeus.md"
+    "DnD/Vega/Players/Magnus.md"
   ]
 }
